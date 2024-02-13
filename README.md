@@ -7,9 +7,11 @@ This project aims to develop a system that allows users to control computer appl
 ## Installation
 
 1. Clone this repository to your local machine.
+   
     git clone https://github.com/asharmas23/gesture_control_gtav_cnn.git
 
-2. Navigate to the project directory.
+3. Navigate to the project directory.
+   
     cd gesture_control_gtav_cnn
 
 
